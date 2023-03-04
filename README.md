@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
-- 🌱 I’m currently learning **3D Image reconstruction, Computer vision with Deep Learning*
+- 🌱 I’m currently learning **3D Image reconstruction, Computer vision with Deep Learning**
 
 - 💬 Ask me about **Machine Learning, Computer Vision**
 
