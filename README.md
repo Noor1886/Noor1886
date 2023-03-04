@@ -1,7 +1,7 @@
 ![MasterHead](https://previews.123rf.com/images/barks/barks1902/barks190200079/117189215-ai-artificial-intelligence-image-banner-illustration.jpg)
 <h1 align="center">Hi 👋, I'm Abdul Noor Mohammed</h1>
 <h3 align="center">Graduate Researcher @ University of Maryland</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/hbHVdUujoz4AAAAM/axel-johansson-axjo.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/hbHVdUujoz4AAAAM/axel-johansson-axjo.gif">
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
